@@ -9,3 +9,5 @@ Example ads for Github
 ![](ads/badge-b-1.svg)
 ![](ads/badge-b-2.svg)
 ![](ads/badge-b-3.svg)
+![](ads/sq.svg)
+![](ads/sq-light.svg)
