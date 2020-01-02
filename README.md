@@ -17,6 +17,7 @@ We work with tech companies that are building tools for software developers. Fro
 
 #### Large Example
 ![https://www.atlassian.com/](ads/large-light.svg)
+![https://www.atlassian.com/](ads/large-blue.svg)
 
 [See these ads in content: Material-UI](examples/MaterialUI.md) 
 
