@@ -50,7 +50,8 @@ Please note that `@next` will only point to pre-releases; to get the latest stab
 
 *2/3 slots available*
 
-![https://www.atlassian.com/](../ads/large-blue.svg)
+![https://www.atlassian.com/](../ads/large-light.svg)
+> Products for teams, from startup to enterprise. Plan, track, and release world-class software with the #1 software development tool used by agile teams. Manage any business project including marketing campaigns, HR onboarding, approvals and legal document reviews. [Jira is offering a free trial on all products. Get Started!](https://www.atlassian.com/software/jira/try)
 
 Diamond Sponsors are those who have pledged $2,000/month and more to Material-UI.
 Please contact us at diamond@material-ui.com to subscribe to this tier.
