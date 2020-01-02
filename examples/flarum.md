@@ -29,6 +29,8 @@ composer create-project flarum/flarum . --stability=beta
 
 Read the **[Installation guide](https://flarum.org/docs/install.html)** for more information. For support, refer to the [documentation](https://flarum.org/docs/), and ask questions on the [community forum](https://discuss.flarum.org/) or [Discord chat](https://flarum.org/discord/).
 
+![https://www.atlassian.com/try](../ads/large-fluid.svg)
+
 ## Contributing
 
 Thank you for considering contributing to Flarum! Please read the **[Contributing guide](https://flarum.org/docs/contributing.html)** to learn how you can help.
