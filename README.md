@@ -33,7 +33,7 @@ We work with tech companies that are building tools for software developers. Fro
 [See these ads in content: flarum](examples/flarum.md) 
 
 #### Inline Text Example
-> Our team stays organized with [Atlassian](https://www.atlassian.com/try). [Try for free](https://www.atlassian.com/try)
+> Our team stays organized with [Atlassian](https://www.atlassian.com/try). Help your teams work smarter and faster, together. [Try for free](https://www.atlassian.com/try)
 
 [See these ads in content: Brew](examples/brew.md) 
 
