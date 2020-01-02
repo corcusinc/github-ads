@@ -11,7 +11,7 @@ Features, usage and installation instructions are [summarised on the homepage](h
 ## More Documentation
 `brew help`, `man brew` or check [our documentation](https://docs.brew.sh/).
 
-> Our team stays organized with [Atlassian](https://www.atlassian.com/try).
+> Our team stays organized with [Atlassian](https://www.atlassian.com/try). Help your teams work smarter and faster, together. [Try for free](https://www.atlassian.com/try)
 
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
