@@ -48,7 +48,9 @@ Please note that `@next` will only point to pre-releases; to get the latest stab
 
 ### Diamond 💎
 
-*3/3 slots available*
+*2/3 slots available*
+
+![https://www.atlassian.com/](ads/large-blue.svg)
 
 Diamond Sponsors are those who have pledged $2,000/month and more to Material-UI.
 Please contact us at diamond@material-ui.com to subscribe to this tier.
