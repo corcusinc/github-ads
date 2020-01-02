@@ -21,11 +21,11 @@ We work with tech companies that are building tools for software developers. Fro
 
 [See these ads in content: Material-UI](examples/MaterialUI.md) 
 
-### Small Example
+### Sponsor Badge Example
 ![https://www.atlassian.com/](ads/sq-light.svg)
 ![https://www.atlassian.com/](ads/sq.svg)
 
-[See these ads in content: eslint](examples/eslint.md) 
+[See these ads in content: eslint](https://github.com/corcusinc/github-ads/blob/master/examples/eslint.md#silver-sponsors) 
 
 ### Large Fluid Example
 ![https://www.atlassian.com/](ads/large-fluid.svg)
