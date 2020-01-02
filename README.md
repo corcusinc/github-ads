@@ -1,6 +1,6 @@
 ## Motivation for Github Sponsorships
 
-We want to help Open Source developers get paid through sponsorships so that they can continue creating amazing codes and projects that is important for us and help move the world forward.
+We want to help Open Source developers get paid through sponsorships so that they can continue creating amazing codes and projects that are important for us and help move the world forward.
 
 ## Sponsored by Atlassian
 
@@ -25,12 +25,12 @@ We work with tech companies that are building tools for software developers. Fro
 ![https://www.atlassian.com/](ads/sq-light.svg)
 ![https://www.atlassian.com/](ads/sq.svg)
 
-[See these ads in content: eslint](https://github.com/corcusinc/github-ads/blob/master/examples/eslint.md#silver-sponsors) 
+[See these ads in content: Eslint](https://github.com/corcusinc/github-ads/blob/master/examples/eslint.md#silver-sponsors) 
 
 ### Large Fluid Example
 ![https://www.atlassian.com/](ads/large-fluid.svg)
 
-[See these ads in content: flarum](examples/flarum.md) 
+[See these ads in content: Flarum](examples/flarum.md) 
 
 ### Inline Text Example
 > Our team stays organized with [Atlassian](https://www.atlassian.com/try). Help your teams work smarter and faster, together. [Try for free](https://www.atlassian.com/try)
