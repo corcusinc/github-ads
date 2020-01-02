@@ -1,6 +1,3 @@
-# github-ads
-Example ads for Github
-
 ## Motivation for Github Sponsorships
 
 We want to help Open Source developers get paid through sponsorships so that they can continue creating amazing codes and projects that is important for us and helping move the world forward.
