@@ -25,7 +25,7 @@ We work with tech companies that are building tools for software developers. Fro
 ![https://www.atlassian.com/](ads/badge-light-3.svg)
 ![https://www.atlassian.com/](ads/badge-b-2.svg)
 
-[See these ads in content: Material-UI](examples/MaterialUI.md) 
+[See these ads in content: Brew](examples/brew.md) 
 
 ### Small Example
 ![https://www.atlassian.com/](ads/sq-light.svg)
