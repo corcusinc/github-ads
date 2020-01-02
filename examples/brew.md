@@ -11,6 +11,8 @@ Features, usage and installation instructions are [summarised on the homepage](h
 ## More Documentation
 `brew help`, `man brew` or check [our documentation](https://docs.brew.sh/).
 
+> Our team stays organized with [Atlassian](https://www.atlassian.com/try).
+
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
 
@@ -72,10 +74,6 @@ Code is under the [BSD 2-clause "Simplified" License](LICENSE.txt).
 Documentation is under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Sponsors
-Our team stays organized with [Atlassian](https://www.atlassian.com/try).
-
-![https://www.atlassian.com/](../ads/badge-light-3.svg)
-
 Our Jenkins CI installation is hosted by [DigitalOcean](https://m.do.co/c/7e39c35d5581).
 
 ![DigitalOcean](https://cloud.githubusercontent.com/assets/125011/26827038/4b7b5ade-4ab3-11e7-811b-fed3ab0e934d.png)
