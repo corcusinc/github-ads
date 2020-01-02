@@ -6,7 +6,7 @@ We want to help Open Source developers get paid through sponsorships so that the
 
 This page is sponsored by Atlassian.
 
-![https://www.atlassian.com/](ads/sq.svg)
+![https://www.atlassian.com/](ads/large-blue.svg)
 > Products for teams, from startup to enterprise.Plan, track, and release world-class software with the #1 software development tool used by agile teams. Manage any business project including marketing campaigns, HR onboarding, approvals and legal document reviews. [Jira is offering a free trial on all products. Get Started!](https://www.atlassian.com/software/jira/try)
 
 ## How does this work?
