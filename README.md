@@ -61,4 +61,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 [See this in context: Brew](examples/brew.md) 
 
 
-Please contact us if you have suggestions on how we can make this better: info@corcus.io
+Please leave an issue if you have suggestions on how we can make this better
